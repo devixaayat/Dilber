@@ -125,7 +125,7 @@ def licensi():#line:42
         with requests .Session ()as O0O0OO0O0O00OOOO0 :#line:58   #### ISI TOKEN LU DAN   ID LU
           OOO00OO00O0O0OOOO =O0O0OO0O0O00OOOO0 .get("https://pastebin.com/7T5570Zw").text
           open ('apikey.txt','w').write (O000O000OOO000OOO )#line:60
-          print (f"{HO000OOO00 :#line:68
+          print ("{HO000OOO00 :#line:68
     ex
 
 balmond = O+"["+J+"•"+O+"]"
